@@ -28,24 +28,24 @@ lista_de_exercicios_de_colecoes/
 └── README.md
 ```
 
-## 🚀 Exercícios Implementados
+## 🚀 Conceitos Implementados
 
 ### 📝 List
-- [ ] Adicionar e remover elementos
-- [ ] Buscar elementos por índice e valor
-- [ ] Ordenar lista de objetos
-- [ ] Filtrar elementos com predicados
-- [ ] Converter arrays para listas e vice-versa
+- Adicionar e remover elementos
+- Buscar elementos por índice e valor
+- Ordenar lista de objetos
+- Filtrar elementos com predicados
+- Converter arrays para listas e vice-versa
 
 ### 🔢 Set
-- [ ] Remover duplicatas de uma coleção
-- [ ] Comparar conjuntos
-- [ ] Ordenar elementos com TreeSet
+- Remover duplicatas de uma coleção
+- Comparar conjuntos
+- Ordenar elementos com TreeSet
 
 ### 🗂️ Map
--  Adicionar, buscar e remover pares chave-valor
--  Iterar sobre chaves, valores e entries
--  Contar frequência de elementos
+- Adicionar, buscar e remover pares chave-valor
+- Iterar sobre chaves, valores e entries
+- Contar frequência de elementos
 
 ## 🛠️ Tecnologias Utilizadas
 
